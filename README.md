@@ -1,19 +1,30 @@
 # William
 
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
-<br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=williamxmejia)](https://git.io/streak-stats)
 
-<p>💻 Currently at student at Codeup and graduating on June 27, 2022</p>
-<p>🔭 I’m currently working on AdLister application</p>
-<p>🌱 I’m currently learning about user inputs and passwords</p>
-<p>🤔 I’m looking to enter transition into Software Development</p>
-<p>🏃 I like to go for runs and hikes</p>
-<p>📧 Reach me by email: william.rafael.mejiadiaz@gmail.com</p>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+💻 Currently at student at Codeup learning full stack web development and graduating on June 27, 2022
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=willx1995&cover_image=true&theme=default)](https://github.com/williamxmejia/spotify-github-profile)
+🔭 I’m currently working on AdLister application
+
+🌱 I’m currently learning about user inputs and passwords
+
+🤔 I’m looking to enter transition into Software Development
+
+🏃 I like to go for runs and hikes
+
+📧 Reach me by email: william.rafael.mejiadiaz@gmail.com
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
