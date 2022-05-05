@@ -1,7 +1,6 @@
 # William
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-![visits](https://visitor-badge.glitch.me/badge?page_id=page.id)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=williamxmejia)](https://git.io/streak-stats)
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 💻 Currently at student at Codeup and graduating on June 27, 2022
