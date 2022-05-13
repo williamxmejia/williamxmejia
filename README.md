@@ -1,6 +1,8 @@
 # William
-
+  
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+  
+ <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=williamxmejia)](https://git.io/streak-stats)
 
@@ -16,13 +18,11 @@
 💻 Currently at student at Codeup learning full stack web development and graduating on June 27, 2022
 
 
-🔭 I’m currently working on AdLister application
+🔭 I’m currently working on spring-blog application
 
-🌱 I’m currently learning about user inputs and passwords
+🌱 I’m currently learning Spring Boot
 
-🤔 I’m looking to enter transition into Software Development
-
-🏃 I like to go for runs and hikes
+🤔 I’m looking for work in Software Development
 
 📧 Reach me by email: william.rafael.mejiadiaz@gmail.com
 
