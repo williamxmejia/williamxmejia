@@ -18,9 +18,9 @@
 💻 Currently at student at Codeup learning full stack web development and graduating on June 27, 2022
 
 
-🔭 I’m currently working on spring-blog application
+🔭 I’m currently working on spring-blog application and Capstone
 
-🌱 I’m currently learning Spring Boot
+🌱 I’m currently learning Spring Boot services
 
 🤔 I’m looking for work in Software Development
 
