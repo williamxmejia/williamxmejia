@@ -15,16 +15,11 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-💻 Recent graduate
+Sleep, code, repeat
 
+I’m currently working on a Grails project
 
-🔭 I’m currently working on ...
-
-🌱 I’m currently learning React
-
-🤔 I’m looking for work in Software Development
-
-📧 Reach me by email: william.rafael.mejiadiaz@gmail.com
+william.rafael.mejiadiaz@gmail.com
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
