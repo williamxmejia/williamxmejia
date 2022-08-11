@@ -17,7 +17,7 @@
 
 Sleep, code, repeat
 
-I’m currently working on a Grails project
+I’m currently working on a Fitness App to track personal workouts
 
 william.rafael.mejiadiaz@gmail.com
 
