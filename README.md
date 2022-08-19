@@ -21,7 +21,7 @@ I’m currently working on a Fitness App to track personal workouts
 
 &&
 
-going through a c++ tutorial on https://cplusplus.com/
+Going through the c++ tutorial from https://cplusplus.com/
 
 william.rafael.mejiadiaz@gmail.com
 
