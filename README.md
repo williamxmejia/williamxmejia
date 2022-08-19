@@ -19,6 +19,10 @@ Sleep, code, repeat
 
 I’m currently working on a Fitness App to track personal workouts
 
+&&
+
+going through a c++ tutorial on https://cplusplus.com/
+
 william.rafael.mejiadiaz@gmail.com
 
 <!--START_SECTION:waka-->
