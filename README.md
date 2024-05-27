@@ -5,10 +5,10 @@
 
 I am currently a student at the University of Texas at San Antonio (UTSA)
   
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) \
 https://tinyurl.com/willmejia
 
-Summer 2024 SWE II Intern @ Walmart Global Tech
+Summer 2024 SWE II Intern @ Walmart Global Tech \
 ![Walmart](https://a11ybadges.com/badge?logo=walmart)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=williamxmejia&theme=dark)](https://git.io/streak-stats)
