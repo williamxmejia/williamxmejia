@@ -1,5 +1,5 @@
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
-# William (Will) Mejia - williammejia.com/
+# William (Will) Mejia - https://williammejia.com/
 
 <div align="center">
 
