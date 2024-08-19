@@ -3,13 +3,17 @@
 
 <div align="center">
 
-I am currently a student at the University of Texas at San Antonio (UTSA)
+<div>I am currently a student at the University of Texas at San Antonio (UTSA)</div>
+<ul>
+<li>CS 3843 - Computer Organization</li>
+<li>CS 3333 - Math Found of CS</li>
+<li>CS 2123 - Data Structures</li>
+<li>STA 3003 - Statistical Methods Apps</li>
+<li>CS 3113 - Principles of Cybersecurity</li>
+</ul>
   
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) \
 https://tinyurl.com/willmejia
-
-![Walmart](https://a11ybadges.com/badge?logo=walmart) \
-Summer 2024 SWE II Intern @ Walmart Global Tech
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=williamxmejia&theme=dark)](https://git.io/streak-stats)
     
